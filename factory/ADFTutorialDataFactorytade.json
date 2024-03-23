@@ -1,0 +1,9 @@
+{
+	"name": "ADFTutorialDataFactorytade",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "705525f9-91db-4dfd-a0d7-2d8ae43a93ae",
+		"tenantId": "0e9fe8b6-3ff6-433b-a89e-a9a7b2de771b"
+	}
+}
